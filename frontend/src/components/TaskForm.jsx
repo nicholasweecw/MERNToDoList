@@ -29,7 +29,7 @@ function TaskForm() {
         </div>
         <div className="form-group">
           <button className="btn btn-block" type="submit">
-            Add Goal
+            Add Task
           </button>
         </div>
       </form>
